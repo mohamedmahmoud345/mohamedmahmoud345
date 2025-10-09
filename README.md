@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Backend Developer** from Egypt, specializing in building robust and scalable server-side applications. Currently pursuing my B.Sc. in Computer Science with an expected graduation in 2026. I love solving complex problems and turning ideas into reality through clean, efficient code.
+I'm a passionate **Backend Developer** from Egypt, specializing in building robust and scalable server-side applications. I love solving complex problems and turning ideas into reality through clean, efficient code.
 
 - 🌱 I'm deepening my expertise in **ASP.NET Core**, **Design Patterns**, and **Microservices Architecture**
 - 💡 Passionate about **SOLID principles** and writing maintainable code
