@@ -10,7 +10,7 @@
 
 I'm a passionate **Backend Developer** from Egypt, specializing in building robust and scalable server-side applications. I love solving complex problems and turning ideas into reality through clean, efficient code.
 
-- 🌱 I'm deepening my expertise in **ASP.NET Core**, **Design Patterns**, and **Microservices Architecture**
+- 🌱 I'm deepening my expertise in **ASP.NET Core**, **Design Patterns**, and **Clean Architecture**
 - 💡 Passionate about **SOLID principles** and writing maintainable code
 - 🎯 Seeking internship opportunities to contribute to impactful software solutions
 - ⚡ Fun fact: I practice algorithms daily on LeetCode and NeetCode
